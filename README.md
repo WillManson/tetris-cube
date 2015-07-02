@@ -1,4 +1,4 @@
-# TetrisCube
+# tetris-cube
 Here's some Java that will solve the Tetris Cube for you. The Tetris Cube is a toy made by Imagination International. This program should be able to solve all similar puzzles, by changing the sizes of arrays and the shapes of the blocks, as appropriate.
 
 On my machine, the program can reach a solution in about a minute, although it's possible to vary this time quite easily by reordering the blockPlacementOrder array in the Cube class. This is due to the fact that it usually helps to place large, awkward blocks first in order to drastically cut down the available placement possibilities for the remaining blocks.
